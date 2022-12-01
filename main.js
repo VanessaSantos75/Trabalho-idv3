@@ -68,5 +68,5 @@ server.delete("/hamburguer/:index", (req, res) => {
 
 
 server.listen(port, () => {
-    console.log(`Server is running in http://localhost:${port}`);
+    console.log(`Server ta rodando em http://localhost:${port}`);
 });
