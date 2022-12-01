@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Combo Casal",
+    "descricao": "2 x-tudo, 1 porção média de batata com calabresa e queijo e 1 guarana de 1L",
+    "preco": 40.0,
+    "categoria_id": 3
+  },
+  {
+    "id": 2,
+    "nome": "Combo galera",
+    "descricao": "3 x-búguer, 1 porção média de batata com calabresa e queijo e 1 Coca cola 2L",
+    "preco": 58.5,
+    "categoria_id": 3
+  },
+  {
+    "id": 3,
+    "nome": "Combo monster",
+    "descricao": "4 x-tudo, 1 porção grande de batata com calabresa e queijo e 1 Guarana de 2L",
+    "preco": 62.5,
+    "categoria_id": 3
+  },
+  {
+    "id": 4,
+    "nome": "Combo infantil",
+    "descricao": "2 simples, 1 porção pequena de nugget e  2 guaracamps",
+    "preco": 30.0,
+    "categoria_id": 3
+  }
+]
